@@ -1,0 +1,11 @@
+local(adoc).
+local(gradas_electricas).
+local(food_court).
+local(siman).
+local(zara).
+local(parqueo).
+local(pollo_campero).
+local(dollar_city).
+local(miniso).
+local(aqua_fauna).
+local(boston).
